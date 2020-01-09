@@ -1,0 +1,5 @@
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Delegates\bin\Debug\Dub_Lab_6_Delegates.exe.config
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Delegates\bin\Debug\Dub_Lab_6_Delegates.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Delegates\bin\Debug\Dub_Lab_6_Delegates.pdb
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Delegates\obj\Debug\Dub_Lab_6_Delegates.exe
+G:\Visual Studio 2019\Lab_GitHub\Dub_Lab_6_Delegates\obj\Debug\Dub_Lab_6_Delegates.pdb
